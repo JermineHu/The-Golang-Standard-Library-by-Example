@@ -81,8 +81,8 @@
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
         "donate": {
-            "wechat": "http://studygolang.qiniudn.com/img/wxpay.png",
-            "alipay": "http://studygolang.qiniudn.com/170605/9d11b43988fbbb42a5da9f970a0f6818.png",
+            "wechat": "https://raw.githubusercontent.com/JermineHu/docker-frp/master/img/wechat.png",
+            "alipay": "https://raw.githubusercontent.com/JermineHu/docker-frp/master/img/alipay.png",
             "title": "",
             "button": "赏",
             "alipayText": "支付宝打赏",
@@ -93,7 +93,7 @@
             "skipFirstH1": true
         },
         "edit-link": {
-            "base": "https://github.com/polaris1119/The-Golang-Standard-Library-by-Example/edit/master",
+            "base": "https://github.com/JermineHu/The-Golang-Standard-Library-by-Example/edit/master",
             "label": "编辑该页面"
         },
         "sitemap-general": {
