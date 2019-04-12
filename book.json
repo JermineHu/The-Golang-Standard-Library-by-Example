@@ -6,7 +6,9 @@
     "root": ".",
     "links": {
         "sidebar": {
+            "Blog": "https://jermine.vdo.pub/"
             "Go语言中文网": "http://studygolang.com"
+            
         }
     },
     "plugins": [
